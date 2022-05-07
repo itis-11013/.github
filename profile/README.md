@@ -17,3 +17,5 @@
 ---
 
 ### [national-bank-col](https://github.com/itis-11013/national-bank-col)
+1. Kevin Jhoan Barrero Gonzalez
+2. Juan Camilo suarez
