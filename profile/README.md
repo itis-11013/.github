@@ -1,7 +1,7 @@
 # Teams
 
 ### [central-stock](https://github.com/itis-11013/central-stock)
-[API documentation](https://stock-11013.herokuapp.com/swagger-ui/index.html)
+[API documentation](http://188.93.211.195/central/swagger-ui/index.html)
 
 1. Evans Owamoyo
 2. Boraik Ali
